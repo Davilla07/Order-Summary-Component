@@ -33,8 +33,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [https://github.com/Davilla07/Order-Summary-Component](https://github.com/Davilla07/Order-Summary-Component)
-- URL do site ao vivo: [https://davilla07.github.io/Order-Summary-Component](https://davilla07.github.io/Order-Summary-Component)
+- URL da solução: [https://github.com/Davilla07/Order-Summary-Component.git](https://github.com/Davilla07/Order-Summary-Component.git)
+- URL do site ao vivo: [https://davilla07.github.io/Order-Summary-Component/](https://davilla07.github.io/Order-Summary-Component/)
 
 ## Meu processo
 
